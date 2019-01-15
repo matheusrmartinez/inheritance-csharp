@@ -1,0 +1,6 @@
+D:\OneDrive\03 - Udemy\2 - C# Orientado a Objetos\10 - Herança e Polimorfismo\Projetos\Resolvido02\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+D:\OneDrive\03 - Udemy\2 - C# Orientado a Objetos\10 - Herança e Polimorfismo\Projetos\Resolvido02\Course\bin\Debug\Course.exe.config
+D:\OneDrive\03 - Udemy\2 - C# Orientado a Objetos\10 - Herança e Polimorfismo\Projetos\Resolvido02\Course\bin\Debug\Course.exe
+D:\OneDrive\03 - Udemy\2 - C# Orientado a Objetos\10 - Herança e Polimorfismo\Projetos\Resolvido02\Course\bin\Debug\Course.pdb
+D:\OneDrive\03 - Udemy\2 - C# Orientado a Objetos\10 - Herança e Polimorfismo\Projetos\Resolvido02\Course\obj\Debug\Course.exe
+D:\OneDrive\03 - Udemy\2 - C# Orientado a Objetos\10 - Herança e Polimorfismo\Projetos\Resolvido02\Course\obj\Debug\Course.pdb
